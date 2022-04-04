@@ -1,0 +1,3 @@
+﻿  func.cpp
+D:\КПІ\Programming\Second semester\C++\Lab_2\func.cpp(179,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Lab_2.vcxproj -> D:\КПІ\Programming\Second semester\C++\Debug\Lab_2.exe
